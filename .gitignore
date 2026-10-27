@@ -1,0 +1,6 @@
+# Dataset provenance/licence is not stated in the file: do not commit the raw CSV (about 80 MB)
+data/*.csv
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
